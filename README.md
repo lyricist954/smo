@@ -1,2 +1,2 @@
-# smo
-Stoppa Massövervakning
+# Read me
+Repot till officiella SMÖ webbplatsen
