@@ -46,30 +46,48 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
 
+<div style="margin-top:10px;"></div>
 
-### Ämnesrad
-```
+<!-- Ämnesrad box -->
+<p><strong>Ämnesrad</strong></p>
+<pre style="
+  background:#f6f8fa;
+  padding:12px;
+  border-radius:8px;
+  overflow-x:auto;
+  border:1px solid #ddd;
+">
 Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
-```
-### Innehåll
-```
+</pre>
+
+<!-- Innehåll box -->
+<p><strong>Innehåll</strong></p>
+<pre style="
+  background:#f6f8fa;
+  padding:12px;
+  border-radius:8px;
+  overflow-x:auto;
+  border:1px solid #ddd;
+  white-space:pre-wrap;
+">
 Hej [Namn på ledamot],
 
 Jag skriver till dig som min folkvalda representant inför omröstningen om proposition 2025/26:150 den 26 maj.
 
-Jag är djupt oroad över förslaget att ge polisen rätt att använda AI-stödd ansiktsigenkänning i realtid på allmän plats. Även regeringens egen utredare har medgett att det innebär ett potentiellt stort ingrepp i den personliga integriteten. Centerpartiet har yrkat på avslag, och Vänsterpartiet vill se starkare skyddsmekanismer.
+Jag är djupt oroad över förslaget att ge polisen rätt att använda AI-stödd ansiktsigenkänning i realtid på allmän plats. Även regeringens egen utredare har medgett att det innebär ett potentiellt stort ingrepp i den personliga integriteten.
 
-Att tillåta kontinuerlig, automatisk ansiktsigenkänning utan brottsmisstanke förändrar i grunden relationen mellan medborgare och stat. Det är ett steg mot ett massövervakningssamhälle som varken är proportionerligt eller rättssäkert.
+Att tillåta kontinuerlig, automatisk ansiktsigenkänning utan brottsmisstanke förändrar i grunden relationen mellan medborgare och stat.
 
 Jag uppmanar dig:
 
-1. Att rösta nej till förslaget, eller
-2. Att åtminstone kräva en tidsbegränsad lagstiftning med oberoende utvärdering och starkt integritetsskydd.
+1. Att rösta nej till förslaget, eller  
+2. Att kräva starka skyddsmekanismer och tidsbegränsning.
 
 Tack för att du tar mitt medborgarperspektiv i beaktande.
 
-Med vänlig hälsning,
+Med vänlig hälsning,  
+[Ditt namn]  
 [Ditt namn]
-[Din ort]
-```
+</pre>
+
 </details>
