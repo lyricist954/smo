@@ -22,5 +22,23 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
+Ämne: Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
 
-- [Om SMÖ](pages/Om-SMO.md)
+Hej [Namn på ledamot],
+
+Jag skriver till dig som min folkvalda representant inför omröstningen om proposition 2025/26:150 den 26 maj.
+
+Jag är djupt oroad över förslaget att ge polisen rätt att använda AI-stödd ansiktsigenkänning i realtid på allmän plats. Även regeringens egen utredare har medgett att det innebär ett potentiellt stort ingrepp i den personliga integriteten. Centerpartiet har yrkat på avslag, och Vänsterpartiet vill se starkare skyddsmekanismer.
+
+Att tillåta kontinuerlig, automatisk ansiktsigenkänning utan brottsmisstanke förändrar i grunden relationen mellan medborgare och stat. Det är ett steg mot ett massövervakningssamhälle som varken är proportionerligt eller rättssäkert.
+
+Jag uppmanar dig:
+
+1. Att rösta nej till förslaget, eller
+2. Att åtminstone kräva en tidsbegränsad lagstiftning med oberoende utvärdering och starkt integritetsskydd.
+
+Tack för att du tar mitt medborgarperspektiv i beaktande.
+
+Med vänlig hälsning,
+[Ditt namn]
+[Din ort]
