@@ -24,9 +24,10 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
 
 ```
-
 Ämne: Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
 
+```
+```
 Hej [Namn på ledamot],
 
 Jag skriver till dig som min folkvalda representant inför omröstningen om proposition 2025/26:150 den 26 maj.
@@ -45,6 +46,5 @@ Tack för att du tar mitt medborgarperspektiv i beaktande.
 Med vänlig hälsning,
 [Ditt namn]
 [Din ort]
-
 ```
 </details>
