@@ -22,6 +22,9 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
+
+```
+
 Ämne: Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
 
 Hej [Namn på ledamot],
@@ -42,3 +45,6 @@ Tack för att du tar mitt medborgarperspektiv i beaktande.
 Med vänlig hälsning,
 [Ditt namn]
 [Din ort]
+
+```
+</details>
