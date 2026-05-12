@@ -1,2 +1,2 @@
 # Read me
-Repot till officiella SMÖ webbplatsen
+Repot till officiella S.MÖ webbplatsen
