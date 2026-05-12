@@ -5,7 +5,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 
 ### Vad innebär förslaget?
 - Polisen får använda AI för att kontinuerligt skanna ansikten i offentliga kameror.
-- Ingen brottsmisstanke krävs – alla som rör sig på gator och torg kan analyseras.
+- Ingen brottsmisstanke krävs – alla som rör sig på gator och torg kartläggs och analyseras.
 - Systemet riskerar att bli ett massövervakningsverktyg, inte bara en brottsbekämpande metod.
 - Regeringens egen utredare medger att det är ett *"potentiellt stort ingrepp i den personliga integriteten"*.
 
