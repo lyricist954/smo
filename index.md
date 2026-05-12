@@ -18,7 +18,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
     
 | Parti | Ståndpunkt |
 | --- | --- |
-| M, SD, L, KD, S | FÖR ✅ |
+| M, SD, L, KD, S | FÖR SCANNING ✅ |
 | V, MP | DELVIS KRITISK ⌛ |
 | C | EMOT ❌ |
 
