@@ -23,12 +23,12 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
 
-###Ämnesrad
+### Ämnesrad
 ```
 Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
 
 ```
-###Innehåll
+### Innehåll
 ```
 Hej [Namn på ledamot],
 
