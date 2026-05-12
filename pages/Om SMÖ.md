@@ -2,4 +2,5 @@
 layout: default
 title: Om SMÖ
 ---
-XYZ
+#Om SMÖ
+Här är information om SMÖ
