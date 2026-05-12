@@ -46,48 +46,27 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
 
-<div style="margin-top:10px;"></div>
+📋 Mejlmall (markera och kopiera)
 
-<!-- Ämnesrad box -->
-<p><strong>Ämnesrad</strong></p>
-<pre style="
-  background:#f6f8fa;
-  padding:12px;
-  border-radius:8px;
-  overflow-x:auto;
-  border:1px solid #ddd;
-">
+────────────────────────
+
+Ämnesrad:
 Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
-</pre>
 
-<!-- Innehåll box -->
-<p><strong>Innehåll</strong></p>
-<pre style="
-  background:#f6f8fa;
-  padding:12px;
-  border-radius:8px;
-  overflow-x:auto;
-  border:1px solid #ddd;
-  white-space:pre-wrap;
-">
+────────────────────────
+
 Hej [Namn på ledamot],
 
 Jag skriver till dig som min folkvalda representant inför omröstningen om proposition 2025/26:150 den 26 maj.
 
-Jag är djupt oroad över förslaget att ge polisen rätt att använda AI-stödd ansiktsigenkänning i realtid på allmän plats. Även regeringens egen utredare har medgett att det innebär ett potentiellt stort ingrepp i den personliga integriteten.
+Jag är djupt oroad över förslaget att ge polisen rätt att använda AI-stödd ansiktsigenkänning i realtid på allmän plats.
 
-Att tillåta kontinuerlig, automatisk ansiktsigenkänning utan brottsmisstanke förändrar i grunden relationen mellan medborgare och stat.
+Att tillåta kontinuerlig, automatisk ansiktsigenkänning utan brottsmisstanke förändrar relationen mellan medborgare och stat.
 
-Jag uppmanar dig:
-
-1. Att rösta nej till förslaget, eller  
-2. Att kräva starka skyddsmekanismer och tidsbegränsning.
+Jag uppmanar dig att rösta nej till förslaget eller kräva starka skyddsmekanismer.
 
 Tack för att du tar mitt medborgarperspektiv i beaktande.
 
 Med vänlig hälsning,  
 [Ditt namn]  
-[Ditt namn]
-</pre>
-
 </details>
