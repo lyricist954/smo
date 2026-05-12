@@ -14,9 +14,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 - ...en framtida regering använder det mot politiska moståndare?
 - ...främmande makt får tillgång till det och använder det mot Sverige?
 
-<details>
-<summary><strong> Klicka för att se partiernas ståndpunkter </strong></summary>
-
+### Partiernas ståndpunkter att ta hänsyn till i höstens val
     
 | Parti | Ståndpunkt |
 | --- | --- |
@@ -28,7 +26,6 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 | V | DELVIS KRITISK ⌛ |
 | MP | DELVIS KRITISK ⌛ |
 | C | EMOT ❌ |
-</details>
 
 ### Det är bråttom – men du kan påverka
 Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritiska, men utan tillräckligt tryck utifrån kan lagen gå igenom. Varje samtal, mejl och delning räknas.
