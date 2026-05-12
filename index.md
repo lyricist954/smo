@@ -1,7 +1,7 @@
 # 🛑 Omröstning 26 maj – din röst krävs NU
 
 **Måndagen den 26 maj kl. 16:00 avgörs framtidens övervakningssamhälle.**  
-Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rätt att använda AI för automatisk ansiktsigenkänning i realtid på allmän plats.
+Riksdagen ska klubba proposition 2025/26:150 – en lag som ger polisen rätt att använda AI för automatisk ansiktsigenkänning i realtid på allmän plats.
 
 ### Vad innebär förslaget?
 - Polisen får använda AI för att kontinuerligt skanna ansikten i offentliga kameror.
