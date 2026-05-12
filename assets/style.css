@@ -1,0 +1,11 @@
+/* Alla länkar */
+a {
+  color: #d60000;   /* stark stoppröd */
+  text-decoration: none;
+}
+
+/* När man håller musen över */
+a:hover {
+  color: #ff1a1a;   /* ljusare röd vid hover */
+  text-decoration: underline;
+}
