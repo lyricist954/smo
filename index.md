@@ -9,6 +9,11 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 - Systemet riskerar att bli ett massövervakningsverktyg, inte bara en brottsbekämpande metod.
 - Regeringens egen utredare medger att det är ett *"potentiellt stort ingrepp i den personliga integriteten"*.
 
+### Vad händer när...
+- ...systemet har en falsk träff och du blir oskyldigt stoppad?
+- ...en framtida regering använder det mot politiska moståndare?
+- ...främmande makt får tillgång till det och använder det mot Sverige?
+
 ### Det är bråttom – men du kan påverka
 Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritiska, men utan tillräckligt tryck utifrån kan lagen gå igenom. Varje samtal, mejl och delning räknas.
 
