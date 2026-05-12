@@ -1,1 +1,1 @@
-- [Om SMÖ](pages/om-smo.html)
+- [Om SMÖ](pages/om smo.html)
