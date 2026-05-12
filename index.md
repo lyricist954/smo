@@ -43,8 +43,7 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 **2. Klistra in den i ett mejl till din riksdagsledamot** (hitta e-postadressen via [riksdagen.se/ledamoter](https://www.riksdagen.se/sv/ledamoter/))  
 **3. Skicka före den 24 maj** – ledamöterna måste nås innan helgen före omröstningen.
 
-<details>
-<summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
+### 📋 Mejlmall
 
 ### Ämnesrad
 Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
@@ -67,4 +66,3 @@ Tack för att du tar mitt medborgarperspektiv i beaktande.
 Med vänlig hälsning,
 [Ditt namn]
 [Din ort]
-</details>
