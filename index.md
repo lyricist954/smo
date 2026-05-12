@@ -14,6 +14,16 @@ Riksdagen ska klubba proposition 2025/26:150 – en lag som ger polisen rätt at
 - ...en framtida regering använder det mot politiska moståndare?
 - ...främmande makt får tillgång till det och använder det mot Sverige?
 
+<div class="critique-box" markdown="0">
+  <h3>⚖️ Tunga remissinstanser avstyrker</h3>
+  <ul>
+    <li><strong>Institutet för mänskliga rättigheter</strong> – förslaget hotar yttrandefrihet och demonstrationsfrihet, med risk för ”ändamålsglidning”. <a href="https://www.regeringen.se/contentassets/96075dde0f254715a040a918d2fdea9c/institutet-for-manskliga-rattigheter.pdf" target="_blank">(remissvar)</a></li>
+    <li><strong>Advokatsamfundet</strong> – avstyrker delar, varnar för att förslaget bryter mot EU:s AI-förordning och är rättsosäkert. <a href="https://www.advokatsamfundet.se/globalassets/advokatsamfundet_sv/remissvar/20250610_polisens_anvandning_av_ai_for_ansiktsigenkanning_i_realtid_ds_2025_7.pdf" target="_blank">(remissvar)</a></li>
+    <li><strong>Diskrimineringsombudsmannen</strong> – riskerna för diskriminering har <em>inte analyserats tillräckligt</em>. <a href="https://www.regeringen.se/contentassets/d98d00f0e2c1412d9cebd2e7414c225d/diskrimineringsombudsmannen.pdf" target="_blank">(remissvar)</a></li>
+  </ul>
+  <p style="margin:0.5rem 0 0 0;">👉 <a href="https://www.svd.se/a/K8L656/demokratin-ar-hotad-men-inte-pa-det-satt-som-du-tror-skriver-centerstudenter" target="_blank">Centerstudenter: ”Demokratin är hotad – men inte så som du tror”</a></p>
+</div>
+
 ### Att ta hänsyn till i höstens val
     
 | Parti | Ståndpunkt |
