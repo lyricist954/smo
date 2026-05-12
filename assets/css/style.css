@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* --- Här ändrar du länkfärgen --- */
+a {
+  color: #c00; /* Ersätt med din HEX-kod */
+}
+
+a:hover, a:focus {
+  color: #900; /* Ersätt med din HEX-kod, gärna en mörkare nyans */
+}
