@@ -16,6 +16,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 
 <details>
 <summary><strong> Klicka för att se partiernas ståndpunkter <strong/></summary>
+
     
 | Parti | Ståndpunkt |
 | --- | --- |
@@ -43,10 +44,10 @@ Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritisk
 <details>
 <summary><strong>📋 Klicka för att visa mejlmallen</strong></summary>
 
+
 ### Ämnesrad
 ```
 Inför omröstningen 26/5 – rösta nej till AI-ansiktsigenkänning i realtid
-
 ```
 ### Innehåll
 ```
