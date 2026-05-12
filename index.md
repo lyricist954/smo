@@ -10,7 +10,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 - Regeringens egen utredare medger att det är ett *"potentiellt stort ingrepp i den personliga integriteten"*.
 
 ### Vad händer när...
-- ...systemet har en falsk träff och du blir oskyldigt stoppad?
+- ...systemet har en falsk träff och du blir oskyldigt stoppad av polisen?
 - ...en framtida regering använder det mot politiska moståndare?
 - ...främmande makt får tillgång till det och använder det mot Sverige?
 
