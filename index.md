@@ -16,6 +16,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 
 <details>
   <summary><strong> Klicka för att se partiernas ståndpunkter <strong/></summary>
+    
 | Parti | Ståndpunkt |
 | --- | --- |
 | M | FÖR ✅ |
