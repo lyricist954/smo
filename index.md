@@ -18,9 +18,9 @@ Riksdagen ska klubba proposition 2025/26:150 – en lag som ger polisen rätt at
     
 | Parti | Ståndpunkt |
 | --- | --- |
-| M, SD, L, KD, S | FÖR SCANNING ✅ |
-| V, MP | DELVIS KRITISK ⌛ |
-| C | EMOT ❌ |
+| M, SD, L, KD, S | För scanning ✅ |
+| V, MP | Delvis kritisk ⌛ |
+| C | Emot ❌ |
 
 ### Det är bråttom – men du kan påverka
 Omröstningen är om mindre än två veckor. Flera partier (C och V) är kritiska, men utan tillräckligt tryck utifrån kan lagen gå igenom. Varje samtal, mejl och delning räknas.
