@@ -18,13 +18,8 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
     
 | Parti | Ståndpunkt |
 | --- | --- |
-| M | FÖR ✅ |
-| SD | FÖR ✅ |
-| L | FÖR ✅ |
-| KD | FÖR ✅ |
-| S | FÖR ✅ |
-| V | DELVIS KRITISK ⌛ |
-| MP | DELVIS KRITISK ⌛ |
+| M, SD, L, KD, S | FÖR ✅ |
+| V, MP | DELVIS KRITISK ⌛ |
 | C | EMOT ❌ |
 
 ### Det är bråttom – men du kan påverka
