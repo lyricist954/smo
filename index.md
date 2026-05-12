@@ -15,7 +15,7 @@ Riksdagen ska klubba proposition **2025/26:150** – en lag som ger polisen rät
 - ...främmande makt får tillgång till det och använder det mot Sverige?
 
 <details>
-<summary><strong> Klicka för att se partiernas ståndpunkter <strong/></summary>
+<summary><strong> Klicka för att se partiernas ståndpunkter </strong></summary>
 
     
 | Parti | Ståndpunkt |
