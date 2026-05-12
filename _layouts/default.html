@@ -40,7 +40,30 @@
         {% endif %}
       </header>
       <section>
-
+<div id="countdown" style="background:#c00; color:white; padding:15px; text-align:center; font-weight:bold; border-radius:8px; margin-bottom:20px;">
+  ⏳ Kvar till omröstningen: <span id="timer"></span>
+</div>
+<script>
+(function() {
+  const deadline = new Date('2026-05-26T16:00:00+02:00');
+  function update() {
+    const now = new Date();
+    const diff = deadline - now;
+    if (diff <= 0) {
+      document.getElementById('timer').textContent = 'NU – kontakta din ledamot direkt!';
+      return;
+    }
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+    const seconds = Math.floor((diff / 1000) % 60);
+    document.getElementById('timer').textContent =
+      `${days} dagar, ${hours} tim, ${minutes} min, ${seconds} sek`;
+  }
+  setInterval(update, 1000);
+  update();
+})();
+</script>
       {{ content }}
 
       </section>
